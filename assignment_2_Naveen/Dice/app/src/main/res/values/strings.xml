@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+</resources>
