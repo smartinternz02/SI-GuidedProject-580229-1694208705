@@ -106,8 +106,7 @@ fun Login() {
             Modifier
                 .fillMaxSize()
                 .padding(48.dp),
-        horizontalAlignment  = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.SpaceAround
+        horizontalAlignment  = Alignment.CenterHorizontally
         ) {
             LoginHeader()
 
